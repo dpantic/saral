@@ -6,8 +6,8 @@ require 'saral/version'
 Gem::Specification.new do |spec|
   spec.name          = "saral"
   spec.version       = Saral::VERSION
-  spec.authors       = ["Dejan Pantic"]
-  spec.email         = ["dpantic@gmail.com"]
+  spec.authors       = ["xxx"]
+  spec.email         = ["d@mail.rs"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""
